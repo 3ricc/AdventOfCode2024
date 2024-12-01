@@ -8,12 +8,10 @@ for line in file:
     list1.append(int(line.split()[0]))
     list2.append(int(line.split()[1]))
 
-# im a lazy ass mf
-list1.sort()
-list2.sort()
+simularity = 0
+for num1 in list1:
+    for num2 in list2:
+        if num1 == num2:
+            simularity += num1
 
-answer = 0
-for i in range(len(list1)):
-    answer += abs(list1[i] - list2[i])
-
-print(answer)
+print(simularity)
