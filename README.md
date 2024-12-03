@@ -7,3 +7,6 @@ day1
 
 day2
 - way too many if statements
+
+day3
+- too many variables probably, can definetely be more efficient
