@@ -7,3 +7,6 @@ day1
 
 day2
 - way too many if statements
+
+day3
+- can use less variables in the parsing method, got stuck on one part cuz im a moron
