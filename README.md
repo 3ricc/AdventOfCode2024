@@ -10,3 +10,7 @@ day2
 
 day3
 - can use less variables in the parsing method, got stuck on one part cuz im a moron
+
+day4
+- i should really learn some regex and im rusty as hell when it comes to 2d array traversals
+- p2 i thought was gonna be hard but somehow i did it first try
