@@ -14,3 +14,7 @@ day3
 day4
 - i should really learn some regex and im rusty as hell when it comes to 2d array traversals
 - p2 i thought was gonna be hard but somehow i did it first try
+
+day5
+- could probably do this entire thing when parsing the data
+- learning more about debugging properly now
